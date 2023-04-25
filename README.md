@@ -1,6 +1,6 @@
-# To do application
+# About the project
 
-(In development) To Do application developed in React.
+An application developed for the user to add and delete tasks from their daily routine. To capture the data, a JSON server was used to simulate an API, and this data is saved or deleted from the db.json file.
 
 <br>
 <h3> Desktop version </h3>
