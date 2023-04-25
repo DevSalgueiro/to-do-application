@@ -1,3 +1,10 @@
 {
-   "todos": [] 
+  "todos": [
+    {
+      "id": 0.23194855824029081,
+      "title": "Hello world",
+      "time": "12:00",
+      "done": false
+    }
+  ]
 }

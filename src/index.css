@@ -1,5 +1,6 @@
 html {
-  background-color: aquamarine;
+  background-image: url('../public/01.png');
+  background-size: cover;
 }
 
 body {
