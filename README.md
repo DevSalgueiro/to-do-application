@@ -6,6 +6,7 @@ An application developed for the user to add and delete tasks from their daily r
 <ul dir="auto">
 <li>HTML</li>
 <li>CSS</li>
+<li>REACT</li>
 <li>JavaScript</li>
 </ul>
 
